@@ -11,9 +11,6 @@ Numerical methods
 
 #### Day 2 - 11/08
  * MATLAB 
-  * zeros(x,y)
-  * diag([1,2,3,4,5...])
-  * eye(n)
   * sum -> 3 + 3 = 6
   * sub -> 3 - 3 = 0
   * mul -> 3 * 3 = 9
@@ -30,6 +27,9 @@ Numerical methods
   * sin() -> round(270)= -0.1760
   * cos() -> round(180)= -0.5985
   * tan() -> round(90)= -1.9952
+  * zeros(x,y)
+  * diag([1,2,3,4,5...])
+  * eye(n)
 
 ===========================
 
