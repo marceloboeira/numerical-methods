@@ -37,7 +37,7 @@ Numerical methods
         * eye(n)
 * Links
     * [Basics](https://moodle.up.pt/pluginfile.php/18561/mod_resource/content/2/Matlab/Funcoes4.pdf)
-  
+    * [Awesome Reference](http://www1.univap.br/spilling/CN/apostila4.pdf)
 
 ===========================
 
