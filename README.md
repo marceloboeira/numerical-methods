@@ -30,6 +30,9 @@ Numerical methods
   * zeros(x,y)
   * diag([1,2,3,4,5...])
   * eye(n)
+ * Links
+  * [Basics](https://moodle.up.pt/pluginfile.php/18561/mod_resource/content/2/Matlab/Funcoes4.pdf)
+  
 
 ===========================
 
