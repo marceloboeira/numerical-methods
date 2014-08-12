@@ -15,6 +15,7 @@ Numerical methods
         * [For](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-02/for.m)
         * [Double For](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-02/for2.m)
         * [Referenced for](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-02/for3.m)
+        * [Pot for](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-02/for4.m)
     * Basics
         * sum -> 3 + 3 = 6
         * sub -> 3 - 3 = 0
