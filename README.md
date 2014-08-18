@@ -15,7 +15,9 @@ Numerical methods
 * MATLAB
    * Algorithms
       *  [Chart2Functions](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chart2functions.m)
-      *  
+      *  [ChartExA](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chartExA.m)
+      *  [ChartExB](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chartExB.m)
+        
 ===========================
 
 
