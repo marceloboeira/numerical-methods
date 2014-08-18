@@ -5,9 +5,20 @@ Numerical methods
 
 ===========================
 
-#### Day 3 - 18/08
+#### Day 4 - 25/08
+
 
 ===========================
+
+#### Day 3 - 18/08
+* Numerical Solving Nonlinear Equations
+* MATLAB
+   * Algorithms
+      *  [Chart2Functions](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chart2functions.m)
+      *  
+===========================
+
+
 
 #### Day 2 - 11/08
 * MATLAB 
