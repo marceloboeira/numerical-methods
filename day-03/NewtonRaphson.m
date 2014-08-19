@@ -1,6 +1,7 @@
 % NewtonRaphson - f(x) = x³ - 9x + 3
-clear
-clc
+format long;
+clear;
+clc;
 x(1) = 0.1;
 for i = 1:5
     fx = ((x(i).^3) - 9*x(i) + 3);
