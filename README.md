@@ -17,7 +17,7 @@ Numerical methods
       *  [Chart2Functions](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chart2functions.m)
       *  [ChartExA](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chartExA.m)
       *  [ChartExB](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/chartExB.m)
-        
+      *  [NewtonRhapson](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-03/NewtonRaphson.m)  
 ===========================
 
 
