@@ -5,7 +5,30 @@ Numerical methods
 
 ===========================
 
+#### Day 5 - 01/09 - First Test (GA)
+
+* To Study
+  * List 1
+  * 
+  *
+  * Links
+    * http://pt.wikipedia.org/wiki/M%C3%A9todo_de_Newton
+    * http://www.inf.ufpr.br/silvia/numerico/II5.pdf
+    * http://www2.ufersa.edu.br/portal/view/uploads/setores/114/arquivos/matematica/calculo_numerico/met_newton_raphson.pdf
+    * http://www1.univap.br/spilling/CN/CN_Capt2.pdf
+    * http://pt.slideshare.net/renangpsoares/aula-07-renan-cn
+    * http://www.professores.uff.br/diomar_cesar_lobao/material/Metodos_Numericos/UFF_Metodos_Numericos.pdf
+    * http://www.deachp.com/documentos/mat_newtonraphson.html
+  * Videos
+    * http://engenhariacotidiana.com/calculo-numerico-na-casio-fx-82ms-newton-raphson/
+    * https://www.youtube.com/watch?v=VWx-KkoZdmU
+    * https://www.youtube.com/watch?v=6ueocPki25I
+    * https://www.youtube.com/watch?v=jwLD22naUEM
+    * https://www.youtube.com/watch?v=JGPKzxzXI_4
+
 #### Day 4 - 25/08
+* 
+  
 
 
 ===========================
