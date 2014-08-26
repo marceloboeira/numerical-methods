@@ -6,10 +6,10 @@ Numerical methods
 ===========================
 
 #### Day 5 - 01/09 - First Test (GA)
-
+* MATLAB
+ *  [Iteration](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-04/iteration.m)
 * To Study
   * List 1
-  * 
   *
   * Links
     * http://pt.wikipedia.org/wiki/M%C3%A9todo_de_Newton
