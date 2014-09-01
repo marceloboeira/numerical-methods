@@ -73,16 +73,5 @@ x'
 
 
 
-%NOMES: Josué Boelter , Marcelo Boeira
-
-
-%Questão 1 
-
-
-
-
-
-
-
 
 
