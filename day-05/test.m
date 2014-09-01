@@ -66,7 +66,7 @@ format long;
 clear;
 clc;
 x(1) = -.5;
-for i = 1:100
+for i = 1:10
     x(i+1) = ((-x(i).^4)-1)/5;
 end
 x'
