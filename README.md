@@ -6,6 +6,12 @@ Numerical methods
 ===========================
 
 #### Day 5 - 01/09 - First Test (GA)
+  * MATLAB
+   * [Test](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-05/test.m)
+
+===========================
+
+#### Day 4 - 25/08
 * MATLAB
  *  [Iteration](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-04/iteration.m)
 * To Study
@@ -25,10 +31,6 @@ Numerical methods
     * https://www.youtube.com/watch?v=6ueocPki25I
     * https://www.youtube.com/watch?v=jwLD22naUEM
     * https://www.youtube.com/watch?v=JGPKzxzXI_4
-
-#### Day 4 - 25/08
-* 
-  
 
 
 ===========================
