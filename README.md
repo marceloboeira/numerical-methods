@@ -5,6 +5,12 @@ Numerical methods
 
 ===========================
 
+#### Day 6 - 08/09
+  * MATLAB
+   
+
+===========================
+
 #### Day 5 - 01/09 - First Test (GA)
   * MATLAB
    * [Test](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-05/test.m)
