@@ -6,7 +6,9 @@ Numerical methods
 ===========================
 
 #### Day 6 - 08/09
+  * Gauss-Seidel
   * MATLAB
+   *  [Gauss-Seidel](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-06/gauss-seidel.m)
    
 
 ===========================
