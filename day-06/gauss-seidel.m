@@ -1,3 +1,4 @@
+format long;
 clc;
 clear;
 x1(1) = 0; 
