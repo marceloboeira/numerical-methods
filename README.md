@@ -5,6 +5,13 @@ Numerical methods
 
 ===========================
 
+#### Day 7 - 15/09
+  * Gauss
+  * MATLAB
+   *  [Gauss](https://github.com/marceloboeira/eng-class-numerical-methods/blob/master/day-07/gauss.m)
+   
+===========================
+
 #### Day 6 - 08/09
   * Gauss-Seidel
   * MATLAB
