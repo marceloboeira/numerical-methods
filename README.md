@@ -11,6 +11,7 @@ Numerical methods
   * Gauss
   * Gauss-Seidel
   * Iteration
+  * Newton Rhapson
   * Numerical Solving Nonlinear Equations
   * 
   
