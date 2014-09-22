@@ -5,6 +5,16 @@ Numerical methods
 
 ===========================
 
+#### Day 9 - 29/09 - Test GA
+  * Interpolation
+
+===========================
+
+#### Day 8 - 22/09
+  * Interpolation
+   
+===========================
+
 #### Day 7 - 15/09
   * Gauss
   * MATLAB
