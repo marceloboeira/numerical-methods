@@ -8,6 +8,7 @@ Numerical methods
 #### Day 9 - 29/09 - Test GA
   * Interpolation
    * Linear
+   * Quadratic
   * Gauss
   * Gauss-Seidel
   * Iteration
