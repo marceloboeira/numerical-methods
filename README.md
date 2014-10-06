@@ -15,7 +15,7 @@ Numerical methods
 ===========================
 
 #### Day 10 - 06/10
-  * Curve Fitting
+  * Curve Fitting ( Ajustamento de Curvas ou método dos quadrados mínimos)
    
 
 ===========================
