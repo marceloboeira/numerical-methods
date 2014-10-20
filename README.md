@@ -5,7 +5,7 @@ Numerical methods
 ===========================
 
 #### Day 12 - 20/10 
-   
+  * Adjust by Exp
 
 ===========================
 
@@ -15,7 +15,9 @@ Numerical methods
 ===========================
 
 #### Day 10 - 06/10
-  * Curve Fitting ( Ajustamento de Curvas ou método dos quadrados mínimos)
+  * Curve Fitting ( Ajustamento de Curvas ou método dos quadrados mínimos )
+   * "Ajuste por Reta" 
+   * "Ajuste por Parábola"
    
 
 ===========================
