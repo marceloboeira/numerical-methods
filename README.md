@@ -5,6 +5,9 @@ Numerical methods
 ===========================
 
 #### Day 13 - 27/10 - GB Part 1
+  * Gauss-seidel
+  * Interpolation
+  * Adjusts
   
 ===========================
 
