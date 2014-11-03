@@ -3,18 +3,25 @@ Numerical methods
 
 2014/2
 ===========================
-#### Day 15 - 10/11 - GB Part 2
-  * Adjusts 
 
+#### Day 16 - 10/11 - GB Part 2
+  * Conteúdo: 
+   * 5 Questões:
+    * Integração
+    * Interpolação e Gauss
+    * Ajustamento (Curvas/Parabólica...)
+    * Equações Diferenciais 
+  
+ 
 ===========================
 
-#### Day 15 - 10/11 - GB Part 2
+#### Day 15 - 10/11 -
   * Adjusts 
 
 ===========================
 
 #### Day 14 - 03/11 
-  * a
+  * Integração
 
 ===========================
 
