@@ -22,6 +22,8 @@ Numerical methods
 
 #### Day 14 - 03/11 
   * Integração
+   * Trapézios
+   * Simpson
 
 ===========================
 
