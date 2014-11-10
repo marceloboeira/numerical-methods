@@ -10,7 +10,8 @@ Numerical methods
     * Integração
     * Interpolação e Gauss
     * Ajustamento (Curvas/Parabólica...)
-    * Equações Diferenciais 
+    * Equações Difereciais 
+    
 ==========================
 
 #### Day 15 - 10/11 -
