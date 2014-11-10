@@ -1,22 +1,20 @@
 Numerical methods
 ===========================
 
-2014/2
+### 2014/2
 ===========================
 
-#### Day 16 - 10/11 - GB Part 2
+#### Day 16 - 17/11 - GB Part 2 - Hardcore-stuff
   * Conteúdo: 
    * 5 Questões:
     * Integração
     * Interpolação e Gauss
     * Ajustamento (Curvas/Parabólica...)
     * Equações Diferenciais 
-  
- 
-===========================
+==========================
 
 #### Day 15 - 10/11 -
-  * Adjusts 
+  * Equações diferênciais
 
 ===========================
 
